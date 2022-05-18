@@ -6,7 +6,7 @@ type deck []string
 
 func (d deck) Print() {
 	for i, card := range d {
-		fmt.Println(i, card)
+		fmt.Println(i+1, card)
 	}
 }
 

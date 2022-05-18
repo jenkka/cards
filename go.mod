@@ -1,3 +1,3 @@
-module github.com/jenkka/cards
+module jenkka/cards
 
 go 1.18

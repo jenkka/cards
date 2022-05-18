@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jenkka/cards/deck"
+import "jenkka/cards/deck"
 
 func main() {
 	myDeck := deck.NewDeck()
